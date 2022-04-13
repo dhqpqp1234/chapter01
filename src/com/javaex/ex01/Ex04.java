@@ -24,5 +24,6 @@ public class Ex04 {
 	//String은 글자수 상관없이 ""를 쓴다.
 	String str = "안녕하세욥";
 	System.out.println(str);
+	//
 	}
 }
