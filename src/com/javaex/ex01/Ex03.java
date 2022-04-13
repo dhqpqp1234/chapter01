@@ -13,9 +13,11 @@ public class Ex03 {
 	int b =5;
 	boolean result = a>b;
 	boolean result2 = a<b;
+	boolean result3 = a+b < b;
 	
 	System.out.println(result);
 	System.out.println(result2);
+	System.out.println(result3);
 	
 	}
 }
